@@ -1,6 +1,8 @@
 # bookmarklet-zeplin-plus
 zeplinの一覧の画像を大きくするだけのブックマークレット
 
+※chromeのみ動作確認しています。
+
 
 ## 使い方
 
